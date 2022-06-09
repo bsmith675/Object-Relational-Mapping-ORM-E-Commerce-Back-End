@@ -1,7 +1,7 @@
 # Object-Relational-Mapping-ORM-E-Commerce-Back-End
 
 **************************************
-[(https://bsmith675.github.io/Note-Taker/)](http://localhost:3001/notes)
+https://github.com/bsmith675/Object-Relational-Mapping-ORM-E-Commerce-Back-End.git
 **************************************
 Instructions:
 1. npm install
